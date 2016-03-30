@@ -1,0 +1,28 @@
+name: maccman
+favicon: null
+layout_spectrum: 0.29381021670997143
+typography_spectrum: 0.5679800377693027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7224684809334576
+  lightness: 0.07193164527416229
+  saturation: 0.0954312696121633
+  rhythmicContrast: 0.5950580644421279
+purpose: []
