@@ -1,7 +1,7 @@
 name: maccman
 favicon: null
-layout_spectrum: 0.29381021670997143
-typography_spectrum: 0.5679800377693027
+layout_spectrum: 0.37087
+typography_spectrum: 0.84853
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3e3c3d'
     - '#070606'
     - '#d2242e'
-  brandStrength: 0.5
+  brandStrength: 0.875
   lightness: 0.125
   saturation: 0.0954312696121633
   rhythmicContrast: 0.75
