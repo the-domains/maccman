@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[maccman]]></title>
+        <description><![CDATA[maccman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Apr 2016 16:56:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 Ways to Systematically Decide]]></title>
+            <description><![CDATA[<article><h1>5 Ways to Systematically Decide</h1><p>Everyone is well aware of how to make a decision. From a very early age, we are taught how to decide. The question is not on how to make a decision, but how to make the correct decision. During our life's path, there are no correct decisions only decisions that are more right than others. So, as long as you are going about analyzing (or over analyzing) decisions in your life, you should at least go about it in a systematic way. A good business is just a series of repeatable steps that leads to a successful outcome. The same should apply to decision making.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd87b5bf-d3a2-4c94-8607-bbd0d09d9e1d.jpg"></article>]]></description>
+            <link>undefined5-ways-to-systematically-decide/index.html</link>
+            <guid isPermaLink="false">63ef7abe-b321-427e-8afa-8c8c62c22ac9</guid>
+            <pubDate>Sat, 09 Apr 2016 16:56:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
